@@ -1,0 +1,2 @@
+installer requests beautifulsoup4
+installer selenium
